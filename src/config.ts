@@ -1,0 +1,1 @@
+export const rpc: string = (process.env.REACT_APP_TRUFFLE_EP || '')
